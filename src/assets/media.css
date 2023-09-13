@@ -1,0 +1,11 @@
+@media (min-width:900px) {
+ .create-todo{
+    width: 45%;
+ }
+ .todo-list{
+    width: 55%;
+ }
+ main{
+    display: flex;
+ }   
+}
